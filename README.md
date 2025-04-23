@@ -7,7 +7,7 @@
     DISCORD_TOKEN=your-discord-bot-token
     OPENAI_API_KEY=your-openai-api-key
     ```
-    ⚠️トークンキーは自分で用意してください
+    ⚠️トークンキーは各自で用意してください
 
 
 3. Dockerがインストールされている環境で以下を実行
